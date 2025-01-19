@@ -1,3 +1,3 @@
-# chili-pkgbuild-template
+# chili-void-install
 
-Template for Chili Linux packages
+Instalador da comunidade BR para o Void Linux

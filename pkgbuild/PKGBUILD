@@ -1,7 +1,7 @@
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
 
-pkgname=chili-pkgname
-pkgdesc="Package template for Chililinux"
+pkgname=chili-void-install
+pkgdesc="Instalador da comunidade BR para o VoidLinux"
 #depends=('')
 #makedepends=('')
 #optdepends=('')
